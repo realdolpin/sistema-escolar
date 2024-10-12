@@ -1,0 +1,8 @@
+1 - Mudar a cor do painel do aluno [ ]
+2 - Criar o banco de dados [ ]
+3 - Criar o site [ ]
+4 - Criar a tela de matricula [ ]
+5 - Entender a lógica de funcionamento do sistema [ ]
+6 - Procurar ver a questão dos PDF's [ ]
+7 - Mudar a cor do painel do professor [ ]
+8 - Colocar as funcionalidades no admin [ ]

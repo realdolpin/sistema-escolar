@@ -1,0 +1,65 @@
+body {
+  background: linear-gradient(#000000b7, #fdd41c81),
+    url(../images/estudante-02.png);
+  background-position: top;
+  background-size: cover;
+}
+.login {
+  max-width: 25%;
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.login .logo {
+  margin: 0 auto;
+  align-items: center;
+  text-align: center;
+}
+
+.login img {
+  margin: 1rem auto;
+  width: 120px;
+  height: 120px;
+}
+
+.login label {
+  color: #fff !important;
+}
+
+.login form {
+  margin-top: 1rem;
+}
+
+.bg-primary {
+  background: #fdd41c !important;
+}
+
+.bg-primary:hover {
+  background: #fdd41c !important;
+}
+
+.modal-backdrop.show {
+  opacity: 0.8 !important;
+}
+
+.modal-xl {
+  max-width: 80%;
+}
+
+.bgModal {
+  background: linear-gradient(#000000b7, #000000b7),
+    url(assets/images/bgHotel.jpg);
+  background-position: center;
+  background-size: cover;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+h3 {
+  color: #fff !important;
+}
